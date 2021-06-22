@@ -1,0 +1,33 @@
+
+H
+src/Exercises/Intro.java,c/b/cb0341542b5ab12dc5d9c04b4e99688587903179
+G
+src/OOP/MarketGood.java,4/d/4d41b91b4360495cc709db48efd93f9e06b07dc8
+G
+src/OOP/MarketMain.java,3/5/35da9eb2d740bc38b713903b22201b770a7bb36e
+J
+src/Exercises/Pyramid.java,1/d/1dc2131af664c61e03f304c8b216fdbcba05397d
+O
+src/Exercises/ShapePrinter.java,a/8/a8c6f617573de641a5e6433e7065d4dca082068d
+P
+ src/Exercises/FloidTriangle.java,7/b/7b0eb9e25cba352b8b7f987ac6f9f6a1987ae724
+G
+src/OOP/BankDriver.java,f/0/f0510d9c5352e584b5512c3f228f6bc241f54806
+H
+src/OOP/BankAccount.java,3/3/33d82f0ca969af9f0aeeb5006040ba8490715fc9
+C
+src/OOP/Person.java,2/5/25dada74c9f503fbb26006bb01c19b50c30e8957
+J
+src/TryCatch/TryCatch.java,a/b/ab02246c536d36d27ca84fdb36c670125d7e5d6e
+P
+ src/Exercises/ArrayListPrac.java,8/0/80a27b5567d3e9401445bc43cc32ae1f49f6c5ca
+P
+ src/Exercises/UnitConverter.java,8/e/8ee34ec94ac39351b49b31f19fae931e5c235afa
+[
++src/Exercises/GreatestDifferenceFinder.java,0/c/0c9857842d96b1595b5b37501a64b109b614193e
+O
+src/Exercises/MyDictionary.java,c/b/cb1752a9f9b6ae8c93e4864b9cee287d97a0abd3
+M
+src/Exercises/PockemonGo.java,5/7/57c5d570cd2d093af1c09911079703e72ad2c177
+C
+src/Input/Scan.java,d/4/d413cd87151157d031647629d6132cc85c6705c0
